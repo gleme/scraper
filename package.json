@@ -1,0 +1,24 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Sample scraper for Power BI page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "puppeteer",
+    "scraping",
+    "javascript"
+  ],
+  "author": "Gustavo Leme",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.16.0",
+    "yargs": "^13.2.4"
+  }
+}
